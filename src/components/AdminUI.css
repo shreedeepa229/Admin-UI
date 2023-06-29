@@ -1,0 +1,27 @@
+
+
+.container{
+    max-width: 100%;
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: auto;
+  
+}
+
+.no-data{
+    position: absolute;
+    bottom: 50%;
+    left:50%;
+    text-align: center;
+    font-size: large;
+    font-weight: 900;
+    /* color: red; */
+
+}
+
+@media screen and (min-width: 780px) {
+    .container{
+ margin: 1rem;
+    }
+}

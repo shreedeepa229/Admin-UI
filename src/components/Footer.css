@@ -1,0 +1,24 @@
+.admin-footer{
+ margin: auto;
+   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+   
+   
+}
+
+.pagination{
+    display: block;
+}
+.button-style{
+
+    background-color:#f02009 !important;
+}
+
+@media screen and (min-width: 480px) {
+    .admin-footer {
+        flex-direction: row;
+    }
+}

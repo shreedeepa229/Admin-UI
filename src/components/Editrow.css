@@ -1,0 +1,50 @@
+/* .container{
+  text-align: start;
+} */
+
+/* table {
+    border-collapse: collapse;
+   
+    table-layout: fixed;
+    width: 100%; 
+    border-spacing: 20px;
+    margin: 0.3rem;
+    text-align: start;
+    }  */
+/*   
+  tr td{
+   
+    border-bottom: 1px solid #ccc;
+   padding: 10px;
+    margin: 2rem;
+    /* white-space: nowrap;
+    align-items: start;
+    
+  } */
+  
+
+  /* thead tr th{
+    padding: 19px 10px;
+    border-bottom: 1px solid #ccc;
+    text-align: start;
+  }
+
+  thead tr th:nth-child(1){
+    min-width: 200px;
+  }
+
+  td svg{
+    width: 25px;
+    margin: 2px;
+    padding: 2px;
+  } */
+
+   /* .App {
+  text-align: start;
+} */
+
+.input-style{
+  
+   padding: 0.1rem 0 0.1rem 0;
+  
+  }
